@@ -1,0 +1,20 @@
+.boxs{
+    background-image: url(../img/o.svg);
+    background-repeat: no-repeat;
+    background-position:100% 100%;
+
+    /* background-image: url(../img/02.svg);
+    background-repeat: no-repeat;
+    background-position:100% 100%; */
+}
+.boks{
+    z-index: 1;
+   background-image: url(../img/oo.svg);
+    background-repeat: no-repeat;
+    background-position:100% 100%; 
+} 
+body{
+    background-image: url(../img/bghero.png);
+    background-repeat: no-repeat;
+    background-position:87% 0%;
+}
